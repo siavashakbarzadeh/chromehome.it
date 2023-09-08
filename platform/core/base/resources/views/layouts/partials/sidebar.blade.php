@@ -27,7 +27,7 @@
             @endif
         </li>
 
-    
+
 
 
 @endforeach
